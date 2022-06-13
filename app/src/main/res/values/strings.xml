@@ -1,46 +1,48 @@
 <resources>
     <string name="app_name">PR9_Pogorelova</string>
     <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
+
     <string name="_4">Смесь британского кота. Возраст - 4 месяца.</string>
     <string name="quot_quot">Приют \"Надежда\"</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
+
     <string name="в">Позвонить нам</string>
     <string name="у">Забрать к себе</string>
     <string name="уц">Барсик</string>
     <string name="цу">Введите своё имя</string>
     <string name="ц3">Выбери себе питомца</string>
-    <string name="todo">TODO</string>
+
     <string name="ку">Введите свой номер телефона</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
+
     <string name="кк">Заполните данные, мы с вами свяжемся</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
+
     <string name="quot_quotк">Приют \"Надежда\"</string>
     <string name="рк">информация</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
+
     <string name="п5к">Кого ты себе хочешь завести?</string>
-    <string name="todo">TODO</string>
+
     <string name="quot_quotрр">Приют \"Надежда\"</string>
     <string name="р5р5">Согласен(-а) с условиями использования и политикой конфидециальности</string>
     <string name="ещвщ">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
+
     <string name="гн">Показать результаты</string>
     <string name="та">Выбери одну категорию питомца</string>
     <string name="quot_quote">Приют \"Надежда\"</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
+
+    <string name="_1">1</string>
+    <string name="f">.</string>
+    <string name="fe">#</string>
+    <string name="_0">0</string>
+    <string name="e">TODO</string>
+
+    <string name="fy">.</string>
+    <string name="f3">.</string>
+    <string name="e3">*</string>
+    <string name="_9">9</string>
+    <string name="_6">6</string>
+    <string name="_8">8</string>
+    <string name="_3">3</string>
+    <string name="_7">7</string>
+    <string name="_5">5</string>
+    <string name="_4t">4</string>
+    <string name="_2">2</string>
 </resources>
